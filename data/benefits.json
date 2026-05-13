@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "./public/icon-online.svg",
+    "title": "Banco Online",
+    "description": "Nossos aplicativos para web e dispositivos móveis permitem que você acompanhe suas finanças onde quer que esteja no mundo."
+  },
+  {
+    "id": 2,
+    "icon": "./public/icon-budgeting.svg",
+    "title": "Orçamento Simples",
+    "description": "Veja exatamente para onde vai seu dinheiro todos os meses. Receba notificações quando estiver perto de atingir seus limites."
+  },
+  {
+    "id": 3,
+    "icon": "./public/icon-onboarding.svg",
+    "title": "Integração Rápida",
+    "description": "Não temos agências físicas. Abra sua conta online em minutos e comece a controlar suas finanças imediatamente."
+  },
+  {
+    "id": 4,
+    "icon": "./public/icon-api.svg",
+    "title": "API Aberta",
+    "description": "Gerencie suas economias, investimentos, previdência e muito mais em uma única conta. Controlar seu dinheiro nunca foi tão fácil."
+  }
+]
