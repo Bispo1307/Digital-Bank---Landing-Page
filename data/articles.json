@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "image": "./public/image-currency.jpg",
+    "image": "/image-currency.jpg",
     "author": "Por Michele Ferreira",
     "title": "Receba dinheiro em qualquer moeda sem taxas.",
     "description": "O mundo está ficando menor e nós estamos nos tornando mais móveis. Então, por que você deveria ser obrigado a receber ..."
   },
   {
     "id": 2,
-    "image": "./public/image-restaurant.jpg",
+    "image": "/image-restaurant.jpg",
     "author": "Por Lucas Batista",
     "title": "Presenteie-se sem se preocupar com dinheiro.",
     "description": "Nosso recurso de orçamento simplificado permite que você separe seus gastos e defina limites realistas para cada …"
   },
   {
     "id": 3,
-    "image": "./public/image-plane.jpg",
+    "image": "/image-plane.jpg",
     "author": "Por Thiago Albuquerque",
     "title": "Leve seu cartão Digitalbank para onde você for.",
     "description": "Queremos que você aproveite suas viagens. Por isso, não cobramos nenhuma taxa sobre compras feitas no exterior. Nós até …"
   },
   {
     "id": 4,
-    "image": "./public/image-confetti.jpg",
+    "image": "/image-confetti.jpg",
     "author": "Por Claudia Ferraz",
     "title": "Nossas contas Beta, por convite, já estão ativas!",
     "description": "Após muito trabalho árduo de toda a equipe, estamos animados para lançar nosso beta fechado. É fácil solicitar um convite através de ..."
